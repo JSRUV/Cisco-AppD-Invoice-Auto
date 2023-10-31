@@ -4,6 +4,9 @@
 Created and documented a Python Script for the Partner Ops Team, automating the 
 invoicing process for AppD customers. 
 
+*The following Excel Workbook and Word Document are not the original data for the project
+**The following program runs similar to the original program 
+
 # PYTHON 
 In the provided Python script, several libraries are used for different purposes. Here's a summary of the libraries and how to install them using pip:
 
@@ -35,6 +38,4 @@ In the provided Python script, several libraries are used for different purposes
 
 Before running the script, make sure you have these libraries installed in your Python environment. Use the provided `pip install` commands to install any missing libraries.
 
-# Excel 
-
-# Word 
+# Excel # Word 
