@@ -1,6 +1,8 @@
 # Cisco-AppD-Invoice-Auto
 # SUMMARY
 
+Created and documented a Python Script for the Partner Ops Team, automating the 
+invoicing process for AppD customers. 
 
 # PYTHON 
 In the provided Python script, several libraries are used for different purposes. Here's a summary of the libraries and how to install them using pip:
