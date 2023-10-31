@@ -1,8 +1,7 @@
-# Cisco-AppD-Invoice-Auto
+# Invoice-Auto
 # SUMMARY
 
-Created and documented a Python Script for the Partner Ops Team, automating the 
-invoicing process for AppD customers. 
+Created and documented a Python Script for Invoice Automation while working for Cisco AppDyanmics
 
 *The following Excel Workbook and Word Document are not the original data for the project
 
