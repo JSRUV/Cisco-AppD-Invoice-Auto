@@ -5,6 +5,7 @@ Created and documented a Python Script for the Partner Ops Team, automating the
 invoicing process for AppD customers. 
 
 *The following Excel Workbook and Word Document are not the original data for the project
+
 **The following program runs similar to the original program 
 
 # PYTHON 
